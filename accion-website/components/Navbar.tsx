@@ -1,7 +1,8 @@
+import React from "react"
 import Link from "next/link"
 import Image from "next/image"
 import { CiSearch } from "react-icons/ci"
-import { NAV_LINKS, SOCIALS } from "@/constants"
+import { NAV_LINKS, SOCIALS } from "../constants"
 
 const Navbar = () => {
   return (
